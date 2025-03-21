@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KleberRibeiro89/curso-node/issues"
   },
-  "homepage": "https://github.com/KleberRibeiro89/curso-node#readme"
+  "homepage": "https://github.com/KleberRibeiro89/curso-node#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
